@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="triangulos.vcxproj" Id="4470f590-33d7-42ae-95cd-5a0e51ffe0d3" />
+</Solution>

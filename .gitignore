@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilación
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# Archivos temporales
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# Ejecutables generados
+*.exe
+*.dll
